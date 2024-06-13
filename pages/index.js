@@ -108,17 +108,13 @@ export default function Home() {
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
             {data.projects.map((project) => (
-              <div key={project.id}>
-                <WorkCard
-                  img={project.imageSrc}
-                  name={project.title}
-                  description={project.description}
-                  onClick={() => window.open(project.url)}
-                />
-                <a href={project.link} target="_blank" rel="noopener noreferrer">
-                  {project.link}
-                </a>
-              </div>
+              <WorkCard
+                key={project.id}
+                img={project.imageSrc}
+                name={project.title}
+                description={project.description}
+                onClick={() => window.open(project.url)}
+              />
             ))}
           </div>
         </div>

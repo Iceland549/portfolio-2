@@ -19,29 +19,25 @@
       "id": "1",
       "title": "Project One ",
       "description": "React Redux",
-      "imageSrc": "/images/projet1-argent_bank.webp",
-      "link": "https://github.com/Iceland549/argentbank-frontend"
+      "imageSrc": "/images/projet1-argent_bank.webp"
     },
     {
       "id": "2",
       "title": "Project Two",
       "description": "Web Development",
-      "imageSrc": "/images/projet2-loc_immo.jpg",
-      "link": "https://github.com/Iceland549/kasa"
+      "imageSrc": "/images/projet2-loc_immo.jpg"
     },
     {
       "id": "3",
       "title": "Project Three",
       "description": "Debug",
-      "imageSrc": "/images/projet3-debug.png",
-      "link": "https://github.com/Iceland549/Debuggez-une-application-React"
+      "imageSrc": "/images/projet3-debug.png"
     },
     {
       "id": "4",
       "title": "Project Four",
       "description": "SEO",
-      "imageSrc": "/images/projet4-seo.jpg",
-      "link": "https://github.com/Iceland549/ninacarducci.github.io"
+      "imageSrc": "/images/projet4-seo.jpg"
     }
   ],
 "services": [
