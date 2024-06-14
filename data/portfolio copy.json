@@ -1,16 +1,15 @@
 {
   "name": "Denis",
-  "headerTaglineOne": "Greetings, fellow adventurers! 👋",
-  "headerTaglineTwo": "I'm Denis CHAU, a code Goonies explorer",
-  "headerTaglineThree": "Spinning code webs, one commit at a time",
-  "headerTaglineFour": "Currently stationned Mâcon, the Shire of front-end quests.",
+  "headerTaglineOne": "Bienvenue !",
+  "headerTaglineTwo": "Apprenti développeur web",
+  "headerTaglineThree": "Prêt à coder de nouvelles aventures.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chaudenisP1"
+      "link": "https://github.com/Iceland549?tab=repositories"
     },
     { "id": "2", "title": "Email", "link": "mailto:chaudenisbreiz@yahoo.fr" }
   ],
@@ -87,36 +86,10 @@
     "description": "Chrome DevTools, React Developer Tools, Yarn, Lighthouse, Wave pour l'audit de performance."
   }
 ],
-  "aboutpara": "With a curious mind and an unwavering dedication, I immerse myself in the ever-evolving realm of web development. Though a newcomer to this intricate craft, an insatiable thirst for knowledge propels me forward, honing my skills with each line of code I compose. At times, you may find me lost in deep concentration, meticulously weaving together the intricate tapestry of digital experiences.",
+  "aboutpara": "Explorateur du web à la recherche des réponses que chacun se pose. Je développe à mon rythme afin d'allier efficacité et réflexion pour tisser des expériences web empreintes de cet équilibre entre matérialité et spiritualité, entre progrès technologique et respect de notre monde naturel.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer, and maker.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
-    "experiences": [
-      {
-        "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": [
-          "Worked on the frontend of a React application",
-          "Worked on the frontend of a React application"
-        ]
-      },
-      {
-        "id": "2",
-        "dates": "March 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": ["Worked on the frontend of a React application"]
-      }
-    ],
-    "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
-    },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
+    "languages": ["Javascript", "HTML5", "CSS"],
+    "frameworks": ["React", "NodeJs"],
     "others": ["Figma", "AdobeXD", "AWS"]
   }
 }
