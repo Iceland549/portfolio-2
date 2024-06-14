@@ -1,8 +1,8 @@
 {
   "name": "Denis",
-  "headerTaglineOne": "Bienvenue !",
-  "headerTaglineTwo": "Apprenti développeur web",
-  "headerTaglineThree": "Prêt à coder de nouvelles aventures.",
+  "headerTaglineOne": "Welcome !",
+  "headerTaglineTwo": "A web devepment apprentice,",
+  "headerTaglineThree": "ready to code new adventures...🌱",
   "showBlog": true,
   "darkMode": true,
   "socials": [
@@ -43,54 +43,54 @@
       "githubLink": "https://github.com/Iceland549/ninacarducci.github.io"
     }
   ],
-"services": [
-  {
-    "id": "1",
-    "title": "Communication et Collaboration",
-    "description": "Intégration front-end/back-end, coordination avec les parties prenantes, rédaction de cahiers de recette détaillés."
-  },
-  {
-    "id": "2",
-    "title": "Gestion du Temps et de l'Organisation",
-    "description": "Respect des délais, planification et priorisation des tâches, adaptation aux changements et revirements de situation."
-  },
-  {
-    "id": "3",
-    "title": "Résolution de Problèmes",
-    "description": "Débogage et résolution de bugs, identification et correction des problèmes de performance, pensée critique et analyse impartiale."
-  },
-  {
-    "id": "4",
-    "title": "Agilité et Adaptabilité",
-    "description": "Intégration des changements en cours de projet, rebondir face aux obstacles et imprévus, remise en question et évolution du projet."
-  },
-  {
-    "id": "5",
-    "title": "React",
-    "description": "Développement d'interfaces utilisateur réactives, gestion d'état avec Redux, routage avec React Router."
-  },
-  {
-    "id": "6",
-    "title": "Node.js & Express",
-    "description": "Création d'API REST, intégration front-end/back-end, exécution de code JavaScript côté serveur."
-  },
-  {
-    "id": "7",
-    "title": "MongoDB",
-    "description": "Utilisation d'une base de données NoSQL, modélisation et persistance des données."
-  },
-  {
-    "id": "8",
-    "title": "Swagger",
-    "description": "Documentation d'API, description des routes et actions de l'API."
-  },
-  {
-    "id": "9",
-    "title": "Outils de développement",
-    "description": "Chrome DevTools, React Developer Tools, Yarn, Lighthouse, Wave pour l'audit de performance."
-  }
-],
-  "aboutpara": "Explorateur du web à la recherche des réponses que chacun se pose. Je développe à mon rythme afin d'allier efficacité et réflexion pour tisser des expériences web empreintes de cet équilibre entre matérialité et spiritualité, entre progrès technologique et respect de notre monde naturel.",
+  "services": [
+    {
+      "id": "1",
+      "title": "Communication and Collaboration",
+      "description": "Front-end/back-end integration, coordination with stakeholders, writing detailed specification documents."
+    },
+    {
+      "id": "2",
+      "title": "Time and Organization Management",
+      "description": "Meeting deadlines, task planning and prioritization, adapting to changes and changing situations."
+    },
+    {
+      "id": "3",
+      "title": "Problem Solving",
+      "description": "Debugging and bug fixing, identifying and correcting performance issues, critical thinking and impartial analysis."
+    },
+    {
+      "id": "4",
+      "title": "Agility and Adaptability",
+      "description": "Integrating changes during a project, bouncing back from obstacles and unforeseen events, questioning and evolving the project."
+    },
+    {
+      "id": "5",
+      "title": "React",
+      "description": "Development of reactive user interfaces, state management with Redux, routing with React Router."
+    },
+    {
+      "id": "6",
+      "title": "Node.js & Express",
+      "description": "Creation of REST APIs, front-end/back-end integration, execution of JavaScript code on the server-side."
+    },
+    {
+      "id": "7",
+      "title": "MongoDB",
+      "description": "Use of a NoSQL database, data modeling and persistence."
+    },
+    {
+      "id": "8",
+      "title": "Swagger",
+      "description": "API documentation, description of API routes and actions."
+    },
+    {
+      "id": "9",
+      "title": "Development Tools",
+      "description": "Chrome DevTools, React Developer Tools, Yarn, Lighthouse, Wave for performance auditing."
+    }
+  ],
+  "aboutpara": "A web explorer searching for the answers that everyone ponders. I develop at my own pace to combine efficiency and reflection, weaving web experiences imbued with a balance between materiality and spirituality, between technological progress and respect for our natural world.✌️",
   "resume": {
     "languages": ["Javascript", "HTML5", "CSS"],
     "frameworks": ["React", "NodeJs"],
