@@ -113,6 +113,7 @@ export default function Home() {
                 img={project.imageSrc}
                 name={project.title}
                 description={project.description}
+                githubLink={project.githubLink}
               />
             ))}
           </div>
